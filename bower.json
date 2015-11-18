@@ -1,0 +1,16 @@
+{
+  "name": "Workshop-Angular",
+  "description": "Workshop Angular for ImaKumo",
+  "version": "0.0.1",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-material": "~0.11.4",
+    "angular-aria": "~1.4.7",
+    "angular-messages": "~1.4.7",
+    "angular-animate": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular": "~1.4.7"
+  }
+}

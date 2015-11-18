@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "private": true,
+  "name": "Workshop-Angular",
+  "description": "Workshop Angular for ImaKumo",
+  "repository": "",
+  "devDependencies": {
+  },
+  "scripts": {
+    "postinstall": "bower install",
+    "start": "live-server"
+  }
+}
